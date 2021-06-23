@@ -1,0 +1,19 @@
+#titulo{
+    color: aqua;
+    margin-top: 50px;
+    font-family: Verdana;
+}
+
+#parrafo{
+    color: deeppink;
+    text-align: left;
+    font-family: Georgia;
+}
+
+#contenedor{
+    border: 1px solid darkorchid;
+    margin: 0 auto;
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+}
