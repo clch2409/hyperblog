@@ -1,13 +1,12 @@
 #titulo{
-    color: aqua;
-    margin-top: 50px;
-    font-family: Verdana;
+    color: black;
+    font-family: Courier;
 }
 
-#parrafo{
-    color: deeppink;
+p{
+    color: grey;
     text-align: left;
-    font-family: Georgia;
+    font-family: Arial;
 }
 
 #contenedor{
