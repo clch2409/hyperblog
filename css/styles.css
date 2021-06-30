@@ -1,0 +1,27 @@
+#titulo{
+    color: black;
+    font-family: Courier;
+}
+
+p{
+    color: gray;
+    text-align: left;
+    font-family: Arial;
+}
+
+#contenedor{
+    border: 1px solid darkorchid;
+    margin: 0 auto;
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+}
+#cabecera
+{
+    background: #33A;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}

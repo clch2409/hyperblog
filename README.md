@@ -1,2 +1,2 @@
 # hyperblog
-Mi segundo repositorio para el curso profesional de Git y GitHub de Platzi
+Mi segundo repositorio para el Curso Profesional de Git y GitHub de Platzi
